@@ -1,3 +1,4 @@
+Weather apps are primarily used to learn about local and global weather conditions. Thanks to the world wide web and local weather stations, the weather app on your devices can keep you up to date with the latest developments in global weather. You no longer have to sit in front of the television and listen to your local weatherman’s unfunny commentary on the weather. 🙂
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
